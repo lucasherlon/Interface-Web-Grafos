@@ -11,6 +11,8 @@ body {
 main {
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    margin-top: -30px;
 }
 
 h1 {
@@ -27,8 +29,8 @@ h2 {
 
 
 .right {
-    height: 80vh;
-    width: 80vh;
+    height: 85vh;
+    width: 85vh;
     margin-top: 10vh;
     background-color: #1d1e22;
     display: grid;
@@ -52,8 +54,8 @@ button:hover {
 }
 
 .conceito {
-    width: 7em;
-    height: 3em;
+    width: 8em;
+    height: 4em;
     font-size: 1.2em;
     font-weight: 600;
     border-radius: 5%;
@@ -76,4 +78,12 @@ button:hover {
 .exp {
     font-size: 1.4em;
     font-weight: 500;
+}
+
+.mudanca {
+    height: 35px;
+    width: 120px;
+    border: 2px solid rgb(54, 54, 157);
+    font-size: 1.2em;
+    font-weight: 400;
 }

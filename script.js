@@ -34,8 +34,8 @@ subgrafo próprio de algum subgrafo conectado de G.`,
 se G F tem mais de uma componente.`,
 "Ponte": `<strong>Ponte: </strong>Se um conjunto desconectante F consiste de uma arestas simples f, então
 esta aresta é chamada ponte.`,
-"Número de Conectividade": `<strong>Número de Conectividade: </strong>O numero de conectividade em arestas λ ( de um grafo G é o tamanho
-mínimo de um conjunto desconectante em G.`,
+"Número de Conectividade": `<strong>Número de Conectividade: </strong>O numero de conectividade em vértices k(G) de um grafo G é o
+tamanho mínimo de um conjunto de articulação em G.`,
 "Conjunto de Corte": `<strong>Conjunto de Corte: </strong>Um conjunto desconectante F é dito ser um conjunto de corte se
 nenhum subconjunto próprio de F é um conjunto desconectante`,
 "Distância": `<strong>Distância: </strong>O número de arestas em um caminho com o menor número de

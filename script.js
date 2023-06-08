@@ -47,7 +47,7 @@ mínima.`,
 raio do grafo.`,
 "Centro": `<strong>Centro: </strong>O centro c(G) de um grafo é o conjunto de todos os seus vértices
 centrais.`,
-"Diâmetro": `<strong>Diâmetro: </strong>Diâmetro Diam ( de um grafo G é a excentricidade do vértice de
+"Diâmetro": `<strong>Diâmetro: </strong>Diâmetro de um grafo G é a excentricidade do vértice de
     excentricidade máxima.`
 }
 

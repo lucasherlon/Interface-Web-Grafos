@@ -37,7 +37,7 @@ esta aresta é chamada ponte.`,
 "Número de Conectividade": `<strong>Número de Conectividade: </strong>O numero de conectividade em vértices k(G) de um grafo G é o
 tamanho mínimo de um conjunto de articulação em G.`,
 "Conjunto de Corte": `<strong>Conjunto de Corte: </strong>Um conjunto desconectante F é dito ser um conjunto de corte se
-nenhum subconjunto próprio de F é um conjunto desconectante`,
+nenhum subconjunto próprio de F é um conjunto desconectante.`,
 "Distância": `<strong>Distância: </strong>O número de arestas em um caminho com o menor número de
 arestas possíveis entre dois vértices v e w de um grafo conectado G é a distância.`,
 "Excentricidade": `<strong>Excentricidade: </strong>Denomina se excentricidade e(v) do vértice v ao valor máximo da distância para todo w ϵ V.`,

@@ -9,7 +9,7 @@ pares não ordenados de elementos de V.`,
 mais de uma aresta.`,
 "Ordem do Grafo": "<strong>Ordem do Grafo: </strong>É o número de vértices do Grafo.",
 "Tamanho do Grafo": "<strong>Tamanho do Grafo: </strong>É o número de arestas do Grafo.",
-"Grafo Trivial": "<strong>Grafo Trivial: </strong>É aquele grafo que possui zero arestas.",
+"Grafo Trivial": "<strong>Grafo Trivial: </strong>É aquele grafo que possui zero arestas e um único vértice.",
 "Grafo Simples": "<strong>Grafo Simples: </strong>Um grafo simples é um grafo sem arestas paralelas e sem laços.",
 "Grafo Completo": `<strong>Grafo Completo: </strong>Um grafo completo G=(V,E) é um grafo no qual existe exatamente uma aresta
 ligando cada par de vértices.`,

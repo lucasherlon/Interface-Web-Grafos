@@ -5,7 +5,7 @@ pares não ordenados de elementos de V.`,
 "Arestas": "<strong>Arestas</strong> (E) são os segmentos que ligam os vértices.",
 "Loop": "<strong>Loop</strong> ou laço é quando uma aresta é incidente com apenas um vértice.",
 "PseudoGrafo": "<strong>Pseudografo: </strong>Um pseudografo é um grafo que contém pelo menos um laço(loop).",
-"Multigrafo": `<strong>Multigrafo: </strong>Um multigrafo é um grafo no qual existe pelo menos dois vértices ligados por
+"Multigrafo": `<strong>Multigrafo: </strong>Um multigrafo é um grafo no qual existem pelo menos dois vértices ligados por
 mais de uma aresta.`,
 "Ordem do Grafo": "<strong>Ordem do Grafo: </strong>É o número de vértices do Grafo.",
 "Tamanho do Grafo": "<strong>Tamanho do Grafo: </strong>É o número de arestas do Grafo.",

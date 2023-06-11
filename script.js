@@ -31,7 +31,7 @@ que não é um subgrafo próprio de outro subgrafo conectado de G.`,
 "Subgrafo Maximal": `<strong>Subgrafo Maximal: </strong>Um subgrafo conectado H de um grafo G é maximal se H não é
 subgrafo próprio de algum subgrafo conectado de G.`,
 "Conjunto Desconectante": `<strong>Conjunto Desconectante: </strong>Um conjunto F de arestas em G é chamado um conjunto desconectante em G
-se G F tem mais de uma componente.`,
+se G-F tem mais de uma componente.`,
 "Ponte": `<strong>Ponte: </strong>Se um conjunto desconectante F consiste de uma arestas simples f, então
 esta aresta é chamada ponte.`,
 "Número de Conectividade": `<strong>Número de Conectividade: </strong>O numero de conectividade em vértices k(G) de um grafo G é o

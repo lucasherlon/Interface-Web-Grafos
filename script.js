@@ -19,7 +19,7 @@ um vértice em Y Ele é representado por G=(X,Y,E).`,
 "Bipartido Completo": `<strong>Bipartido Completo: </strong>Um grafo bipartido completo é um grafo (X,Y, com m vértices em X e n vértices
     em Y no qual existe uma aresta entre todo vértice em X e todo vértice em Y.`,
 "Dígrafo": "<strong>Dígrafo: </strong>Grafo cujas arestas possuem sentido.",
-"Grafo misto": "<strong>Grafo Misto: </strong>Grafo que possui aresta e arcos(arestas orientadas).",
+"Grafo misto": "<strong>Grafo Misto: </strong>Grafo que possui arestas e arcos(arestas orientadas).",
 "Ciclo": "<strong>Ciclo: </strong>Um ciclo é um caminho v 1 ,v 2 ,...,v k ,v k+1 sendo v 1 =v k+1 e k≥3.",
 "Subgrafo Próprio": `<strong>Subgrafo Próprio: </strong> É qualquer subgrafo de um grafo,
 excetuando o próprio grafo original.`,

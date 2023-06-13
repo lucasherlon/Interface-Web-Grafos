@@ -16,7 +16,7 @@ ligando cada par de vértices.`,
 "Grafo Bipartido": `<strong>Grafo Bipartido: </strong>Um grafo bipartido é um grafo simples no qual o conjunto de vértices pode ser
 particionado em dois conjuntos X e Y tal que toda aresta liga um vértice em X a
 um vértice em Y. Ele é representado por G=(X,Y,E).`,
-"Bipartido Completo": `<strong>Bipartido Completo: </strong>Um grafo bipartido completo é um grafo (X,Y, com m vértices em X e n vértices
+"Bipartido Completo": `<strong>Bipartido Completo: </strong>Um grafo bipartido completo é um grafo (X,Y), com m vértices em X e n vértices
     em Y no qual existe uma aresta entre todo vértice em X e todo vértice em Y.`,
 "Dígrafo": "<strong>Dígrafo: </strong>Grafo cujas arestas possuem sentido.",
 "Grafo misto": "<strong>Grafo Misto: </strong>Grafo que possui arestas e arcos(arestas orientadas).",

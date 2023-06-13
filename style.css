@@ -95,6 +95,8 @@ button:hover {
     border: 2px solid rgb(54, 54, 157);
     font-size: 1.2em;
     font-weight: 400;
+    display: flex;
+    align-items: center;
 }
 
 .conceito:active, .botao:active {

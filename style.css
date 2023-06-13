@@ -96,3 +96,8 @@ button:hover {
     font-size: 1.2em;
     font-weight: 400;
 }
+
+.conceito:active, .botao:active {
+    transform: scaleX(1.05);
+    transition: transform 0.3s ease;
+}

@@ -45,6 +45,15 @@ h2 {
     padding: 20px;
 }
 
+.botao {
+    height: 65px;
+    width: 145px;
+    background-color: #1d1e22;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 button {
     cursor: pointer;
 }

@@ -48,9 +48,22 @@ raio do grafo.`,
 "Centro": `<strong>Centro: </strong>O centro c(G) de um grafo é o conjunto de todos os seus vértices
 centrais.`,
 "Diâmetro": `<strong>Diâmetro: </strong>Diâmetro de um grafo G é a excentricidade do vértice de
-    excentricidade máxima.`
+    excentricidade máxima.`,
+"Grafo Valorado": `<strong>Grafo Valorado: </strong>Um grafo G = (V,E) é valorado (ponderado) se existem valores numéricos (pesos) associados às suas arestas e/ou
+vértices.`,
+"Fecho Transitivo": `<strong>Fecho Transitivo: </strong>O conjunto de vértices alcançáveis a partir de um determinado vértice x
+denominado Fecho Transitivo do Vértice x.`,
+"Cadeia": `<strong>Cadeia ou Trajeto: </strong>é um caminho sem repetição de arestas.`,
+"Cadeia Euleriana": `<strong>Cadeia Euleriana: </strong>Trata se de uma cadeia em um grafo G que, passando por todas as arestas de G, as visita apenas um vez`,
+"Caminho Hamiltoniano": `<strong>Caminho Hamiltoniano: </strong>Trata-se de um caminho que, passando por todos os vértices de G, os visita apenas um vez`,
+"Árvore": `<strong>Árvore: </strong>Uma árvore é um grafo acíclico e conectado.`,
+"Folha": ` <strong>Folha: </strong>Vértice de grau 1 em uma árvore.`,
+"Floresta": `<strong>Floresta: </strong>é um grafo acíclico, ou seja, um conjunto de uma ou mais árvores.`,
+"Clique": `<strong>Clique: </strong>Denomina se clique de um grafo G a um subgrafo de G que seja completo.`,
+"Grau Interno": `<strong>Grau Interno: </strong>Em um dígrafo, grau interno de um vértice X é o número de arcos chegam àquele vértice x.`,
+"Grau Externo": `<strong>Grau Externo: </strong>Em um dígrafo, grau externo de um vértice X é o número de arcos saem daquele vértice x.`,
+"Grafo Acíclico": `<strong>Grafo Acíclico: </strong>Grafo que não possui ciclos.`
 }
-
 let botoes = document.querySelectorAll('.conceito');
 let exp = document.querySelector('.exp');
 
@@ -65,4 +78,9 @@ botoes.forEach(botao => {
 const proxima = ()=> {
     window.location.href = 'second.html';
 }
+
+const proxima3 = ()=> {
+    window.location.href = 'third.html';
+}
+
 

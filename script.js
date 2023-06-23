@@ -1,5 +1,5 @@
 
-dicionario = {"Grafo": `<strong>Grafo: </strong>Um grafo G é um par de conjunto (V,E) onde V é não vazio e E é um conjunto de
+const dicionario = {"Grafo": `<strong>Grafo: </strong>Um grafo G é um par de conjunto (V,E) onde V é não vazio e E é um conjunto de
 pares não ordenados de elementos de V.`,
 "Vértice": "<strong>Vértice: </strong>Vértices são os elementos do grafo.",
 "Arestas": "<strong>Arestas</strong> (E) são os segmentos que ligam os vértices.",
@@ -75,12 +75,6 @@ botoes.forEach(botao => {
    });
 });
 
-const proxima = ()=> {
-    window.location.href = 'second.html';
-}
 
-const proxima3 = ()=> {
-    window.location.href = 'third.html';
-}
 
 

@@ -27,6 +27,10 @@ h2 {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+}
+
 
 .right {
     height: 85vh;
